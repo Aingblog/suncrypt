@@ -1,6 +1,6 @@
 {
   "name": "suncrypt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sundanese encryption library for Browsers and Node.js",
   "main": "dist/suncrypt.js",
   "types": "./suncrypt.d.ts",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SundaPro/suncrypt.git"
+    "url": "git+https://github.com/Aingblog/suncrypt.git"
   },
   "keywords": [
     "crypto",
@@ -44,9 +44,9 @@
     "suncrypt.d.ts"
   ],
   "bugs": {
-    "url": "https://github.com/SundaPro/suncrypt/issues"
+    "url": "https://github.com/Aingblog/suncrypt/issues"
   },
-  "homepage": "https://github.com/SundaPro/suncrypt#readme",
+  "homepage": "https://github.com/Aingblog/suncrypt#readme",
   "devDependencies": {
     "@babel/cli": "^7.24.5",
     "@babel/core": "^7.24.5",

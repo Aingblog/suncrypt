@@ -1,7 +1,7 @@
 # SunCrypt
 [![npm version](https://badge.fury.io/js/suncrypt.svg)](https://badge.fury.io/js/suncrypt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/SundaPro/suncrypt.svg)]()
+[![GitHub issues](https://img.shields.io/github/issues/Aingblog/suncrypt.svg)]()
 
 ### SunCrypt is a NodeJS library that provides [Sundanese Unicode](https://id.wikipedia.org/wiki/Aksara_Sunda) Cryptography Algorithm using AES-256 CBC Encryption.
 
@@ -26,7 +26,7 @@ console.log(decrypted);
 ```
 
 # Example 
-- [Example](https://github.com/SundaPro/suncrypt/tree/main/example.js)
+- [Example](https://github.com/Aingblog/suncrypt/tree/main/example.js)
 
 # Contributors
 - [mrdhanz](https://github.com/mrdhanz)
